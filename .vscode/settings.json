@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescriptHero.imports.insertSemicolons": false,
+  "typescriptHero.imports.organizeOnSave": true
+}
